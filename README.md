@@ -1,4 +1,4 @@
-## 👋 Hi!I'm Chelsea
+## 👋 Hi! I'm Chelsea
 
 - 🏫 Data Science and Political Science Student at Northwestern University
 - 🔍 Interested in intersection between the social sciences and data science
