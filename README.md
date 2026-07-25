@@ -1,6 +1,6 @@
 ## 👋 Hi! I'm Chelsea Nelson
 
-- 🏫 Data Science and Political Science Student at Northwestern University
+- 🏫 Northwestern Alumni
 - 💻 Python and R Lover
 - 🔍 Interested in intersection between the social sciences and data science
 - 🔭 I’m currently building a NBA predicitive model
